@@ -14,8 +14,8 @@ I'm passionate about the cutting edge of AI, with a keen interest in LLM multili
 
 * **Languages:** Python, C++, Bash
 * **Frameworks:** TensorFlow, PyTorch
-* **Specialties:** Machine Learning, Deep Learning, ML Graph Surgery, Inference Optimization, Performance Engineering, Compiler Optimizations
-* **Tools:** PyTorch Profiler, Chrome Trace, Docker, Git
+* **Specialties:** Machine Learning, Deep Learning, ML graph surgery and re-writes
+* **Tools:** PyTorch Profiler, Chrome Trace
 
 ## ✨ Featured Projects
 
